@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+	color: black;
+}
+
+/* visited link */
+a:visited {
+	color: black;
+}
+
+/* mouse over link */
+a:hover {
+	color: red;
+}
+
+/* selected link */
+a:active {
+	color: red;
+}
+
+#nav td {
+	width: 120px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+table {
+	width: 100%;
+	align-content: center;
+}
+
+select {
+	width: 100%;
+	box-align: center;
+}
